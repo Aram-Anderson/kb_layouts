@@ -1,7 +1,7 @@
 {
   "name": "Crkbd",
-  "vendorProductId": 1179844609,
   "tappingTerm": 400,
+  "vendorProductId": 1179844609,
   "macros": [
     "{KC_LGUI,KC_C}",
     "{KC_LGUI,KC_X}",
@@ -122,13 +122,13 @@
       "KC_TRNS"
     ],
     [
-      "0x81",
+      "0x80",
       "KC_NO",
       "KC_LSFT",
       "KC_LGUI",
       "KC_NO",
       "MACRO07",
-      "0x80",
+      "0x81",
       "KC_NO",
       "MACRO03",
       "MACRO04",
