@@ -1,6 +1,7 @@
 {
   "name": "Crkbd",
   "vendorProductId": 1179844609,
+  "tappingTerm": 400,
   "macros": [
     "{KC_LGUI,KC_C}",
     "{KC_LGUI,KC_X}",
